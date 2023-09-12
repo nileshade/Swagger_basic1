@@ -1,0 +1,7 @@
+
+#Access springfox using this URL.
+http://localhost:8080/v2/api-docs
+
+If added/using Springfor UI dependency -> get this visual parsed beautified pretify JSON
+#http://localhost:8080/swagger-ui.html
+#localhost:8080/swagger-ui/index.html
